@@ -1,0 +1,1583 @@
+fileFormatVersion: 2
+guid: c8a18a6773f40cd4ea03ac800ceb2f90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1639493194260575181
+    second: Big Chungus Sprite 1_0
+  - first:
+      213: -20897598739063110
+    second: Big Chungus Sprite 1_1
+  - first:
+      213: 3515157498687450387
+    second: Big Chungus Sprite 1_2
+  - first:
+      213: -2229359955021289613
+    second: Big Chungus Sprite 1_3
+  - first:
+      213: -2174858328559182872
+    second: Big Chungus Sprite 1_4
+  - first:
+      213: 2174818058117263454
+    second: Big Chungus Sprite 1_5
+  - first:
+      213: -6397613771724296530
+    second: Big Chungus Sprite 1_6
+  - first:
+      213: 6998455601348478125
+    second: Big Chungus Sprite 1_7
+  - first:
+      213: 3091307265404150854
+    second: Big Chungus Sprite 1_8
+  - first:
+      213: -8726085349141971704
+    second: Big Chungus Sprite 1_9
+  - first:
+      213: 5511921541668075131
+    second: Big Chungus Sprite 1_10
+  - first:
+      213: -7712237739747681539
+    second: Big Chungus Sprite 1_11
+  - first:
+      213: 1939750668257713066
+    second: Big Chungus Sprite 1_12
+  - first:
+      213: -8637831566362505428
+    second: Big Chungus Sprite 1_13
+  - first:
+      213: -4072888077751188840
+    second: Big Chungus Sprite 1_14
+  - first:
+      213: -8250071827111572386
+    second: Big Chungus Sprite 1_15
+  - first:
+      213: 5064245921776244190
+    second: Big Chungus Sprite 1_16
+  - first:
+      213: 4419847327627521365
+    second: Big Chungus Sprite 1_17
+  - first:
+      213: 1299234195258390930
+    second: Big Chungus Sprite 1_18
+  - first:
+      213: -6885708995311679994
+    second: Big Chungus Sprite 1_19
+  - first:
+      213: -8964591386771357061
+    second: Big Chungus Sprite 1_20
+  - first:
+      213: 1305163880079775607
+    second: Big Chungus Sprite 1_21
+  - first:
+      213: 5727502947134691167
+    second: Big Chungus Sprite 1_22
+  - first:
+      213: 3550916028504154635
+    second: Big Chungus Sprite 1_23
+  - first:
+      213: -6322330654691638604
+    second: Big Chungus Sprite 1_24
+  - first:
+      213: 7565186085399429402
+    second: Big Chungus Sprite 1_25
+  - first:
+      213: -2132786110107762872
+    second: Big Chungus Sprite 1_26
+  - first:
+      213: -230447587301501655
+    second: Big Chungus Sprite 1_27
+  - first:
+      213: 1181925632746872098
+    second: Big Chungus Sprite 1_28
+  - first:
+      213: 2024001308726440682
+    second: Big Chungus Sprite 1_29
+  - first:
+      213: -333201117459209976
+    second: Big Chungus Sprite 1_30
+  - first:
+      213: 7398563355182774548
+    second: Big Chungus Sprite 1_31
+  - first:
+      213: -8468109634741878140
+    second: Big Chungus Sprite 1_32
+  - first:
+      213: -1802630781073443559
+    second: Big Chungus Sprite 1_33
+  - first:
+      213: -7201107961823926335
+    second: Big Chungus Sprite 1_34
+  - first:
+      213: 7370654824429006082
+    second: Big Chungus Sprite 1_35
+  - first:
+      213: 8279589836785948093
+    second: Big Chungus Sprite 1_36
+  - first:
+      213: 7408715423476714487
+    second: Big Chungus Sprite 1_37
+  - first:
+      213: 2072810472625161137
+    second: Big Chungus Sprite 1_38
+  - first:
+      213: -7772915098338582204
+    second: Big Chungus Sprite 1_39
+  - first:
+      213: 2133273397108323500
+    second: Big Chungus Sprite 1_40
+  - first:
+      213: 6450760370812125855
+    second: Big Chungus Sprite 1_41
+  - first:
+      213: -4128576091458698557
+    second: Big Chungus Sprite 1_42
+  - first:
+      213: -5461039395833564779
+    second: Big Chungus Sprite 1_43
+  - first:
+      213: -5716089184562943502
+    second: Big Chungus Sprite 1_44
+  - first:
+      213: 4583254930294682788
+    second: Big Chungus Sprite 1_45
+  - first:
+      213: -7184575852110816567
+    second: Big Chungus Sprite 1_46
+  - first:
+      213: -5911715464713713171
+    second: Big Chungus Sprite 1_47
+  - first:
+      213: -2630111218847495293
+    second: Big Chungus Sprite 1_48
+  - first:
+      213: 7696542268723343690
+    second: Big Chungus Sprite 1_49
+  - first:
+      213: -7669549331379595833
+    second: Big Chungus Sprite 1_50
+  - first:
+      213: 8246554059302742523
+    second: Big Chungus Sprite 1_51
+  - first:
+      213: 6668892720680909824
+    second: Big Chungus Sprite 1_52
+  - first:
+      213: 1349369949581445100
+    second: Big Chungus Sprite 1_53
+  - first:
+      213: 681020532314780909
+    second: Big Chungus Sprite 1_54
+  - first:
+      213: 5301280828752780122
+    second: Big Chungus Sprite 1_55
+  - first:
+      213: 4917800138538478409
+    second: Big Chungus Sprite 1_56
+  - first:
+      213: -7246850040386567152
+    second: Big Chungus Sprite 1_57
+  - first:
+      213: 497506192734740691
+    second: Big Chungus Sprite 1_58
+  - first:
+      213: -3774969886224149549
+    second: Big Chungus Sprite 1_59
+  - first:
+      213: -3084938165425005360
+    second: Big Chungus Sprite 1_60
+  - first:
+      213: 3207066317425437321
+    second: Big Chungus Sprite 1_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 253
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3729faf56a0c610800000000000000
+      internalID: 1639493194260575181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 253
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abedf72aeb1c5bff0800000000000000
+      internalID: -20897598739063110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 253
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31de0d6fe1958c030800000000000000
+      internalID: 3515157498687450387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 253
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a97cbee8bf01e0800000000000000
+      internalID: -2229359955021289613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 257
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb1e618fd951d1e0800000000000000
+      internalID: -2174858328559182872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 256
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e503f2d40818e2e10800000000000000
+      internalID: 2174818058117263454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 256
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaee93eab2c1737a0800000000000000
+      internalID: -6397613771724296530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 256
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644aff5549786ea20800000000000000
+      internalID: 3091307265404150854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 223
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80df6a49b97b6e680800000000000000
+      internalID: -8726085349141971704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 223
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76f2f050774e7c40800000000000000
+      internalID: 5511921541668075131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 223
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa5afa03a0a8f490800000000000000
+      internalID: -7712237739747681539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabd35e94f06bea10800000000000000
+      internalID: 1939750668257713066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 223
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f8e41a4f1402880800000000000000
+      internalID: -8637831566362505428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 242
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89287b35fd13a77c0800000000000000
+      internalID: -4072888077751188840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c8e8d426bd18d80800000000000000
+      internalID: -8250071827111572386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_16
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 223
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed591b695d0d74640800000000000000
+      internalID: 5064245921776244190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 224
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55da2b42ab3765d30800000000000000
+      internalID: 4419847327627521365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 223
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299ba60fd9ec70210800000000000000
+      internalID: 1299234195258390930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 194
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6064cbb962c0170a0800000000000000
+      internalID: -6885708995311679994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 194
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7287f251af579380800000000000000
+      internalID: -8964591386771357061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 194
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77753d542afdc1210800000000000000
+      internalID: 1305163880079775607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5757f5b59d2c7f40800000000000000
+      internalID: 5727502947134691167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 194
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b022b3a7053674130800000000000000
+      internalID: 3550916028504154635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 194
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2ca8644c19248a0800000000000000
+      internalID: -6322330654691638604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 194
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1106ff99a0fcf860800000000000000
+      internalID: 7565186085399429402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 165
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fb3253552d662e0800000000000000
+      internalID: -2132786110107762872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_27
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 165
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9255c8be3294dccf0800000000000000
+      internalID: -230447587301501655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 165
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d5ec2d91b076010800000000000000
+      internalID: 1181925632746872098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 165
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2b0977772b61c10800000000000000
+      internalID: 2024001308726440682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 165
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801a41b595b306bf0800000000000000
+      internalID: -333201117459209976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 165
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41934e91c2afca660800000000000000
+      internalID: 7398563355182774548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 165
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482c526372b3b7a80800000000000000
+      internalID: -8468109634741878140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_33
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915bee8fad4cbf6e0800000000000000
+      internalID: -1802630781073443559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 131
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c76f3a3676801c90800000000000000
+      internalID: -7201107961823926335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_35
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 131
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d2c1ce283d94660800000000000000
+      internalID: 7370654824429006082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 131
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db59f83e61307e270800000000000000
+      internalID: 8279589836785948093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 131
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb8942bc6b01d660800000000000000
+      internalID: 7408715423476714487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_38
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b34883842a14cc10800000000000000
+      internalID: 2072810472625161137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 108
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441224696ee012490800000000000000
+      internalID: -7772915098338582204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 102
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4be632ad8ea9d10800000000000000
+      internalID: 2133273397108323500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f928c613164b58950800000000000000
+      internalID: 6450760370812125855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 101
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c20f604be954b6c0800000000000000
+      internalID: -4128576091458698557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_43
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 99
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5913de27a9d7634b0800000000000000
+      internalID: -5461039395833564779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_44
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 89
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f96ca9fb2f5ca0b0800000000000000
+      internalID: -5716089184562943502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_45
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 72
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4b543731efa9f30800000000000000
+      internalID: 4583254930294682788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cad519f3524b4c90800000000000000
+      internalID: -7184575852110816567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de94e804b1e55fda0800000000000000
+      internalID: -5911715464713713171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_48
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 78
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b43d808c7ff7bd0800000000000000
+      internalID: -2630111218847495293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_49
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 78
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41b8065a6c9fca60800000000000000
+      internalID: 7696542268723343690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_50
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 70
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5d8c3a489409590800000000000000
+      internalID: -7669549331379595833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_51
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9abcd8935a17270800000000000000
+      internalID: 8246554059302742523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cbf5d989aac8c50800000000000000
+      internalID: 6668892720680909824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 55
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce78363e1dce9b210800000000000000
+      internalID: 1349369949581445100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_54
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 55
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4be51e098737900800000000000000
+      internalID: 681020532314780909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_55
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 24
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bd56c83dee19940800000000000000
+      internalID: 5301280828752780122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 93
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94be3fd9b298f3440800000000000000
+      internalID: 4917800138538478409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_57
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 26
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014cb32a8440e6b90800000000000000
+      internalID: -7246850040386567152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_58
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 24
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0e2831f3f77e600800000000000000
+      internalID: 497506192734740691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_59
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d310dd93ec9c9bc0800000000000000
+      internalID: -3774969886224149549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_60
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 7
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc1ccf45191035d0800000000000000
+      internalID: -3084938165425005360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big Chungus Sprite 1_61
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 5
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a634de2d9c18c20800000000000000
+      internalID: 3207066317425437321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
