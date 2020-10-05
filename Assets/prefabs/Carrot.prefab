@@ -11,9 +11,7 @@ GameObject:
   - component: {fileID: 3100752557895399398}
   - component: {fileID: 3100752557895399399}
   - component: {fileID: 3100752557895399392}
-  - component: {fileID: -5491402914536217341}
-  - component: {fileID: 9099281469154339985}
-  - component: {fileID: 7576681956733521477}
+  - component: {fileID: -5843987087515833024}
   m_Layer: 0
   m_Name: Carrot
   m_TagString: carrot
@@ -105,8 +103,8 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!68 &-5491402914536217341
-EdgeCollider2D:
+--- !u!61 &-5843987087515833024
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -116,41 +114,18 @@ EdgeCollider2D:
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
-  m_UsedByEffector: 1
+  m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.07}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0}
+    oldSize: {x: 0.1, y: 0.14}
+    newSize: {x: 0.1, y: 0.14}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.1, y: 0.14}
   m_EdgeRadius: 0
-  m_Points:
-  - {x: -0.05038638, y: 0.030574802}
-  - {x: 0.048454415, y: 0.030574802}
---- !u!251 &9099281469154339985
-PlatformEffector2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3100752557895399393}
-  m_Enabled: 1
-  m_UseColliderMask: 1
-  m_ColliderMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_RotationalOffset: 0
-  m_UseOneWay: 1
-  m_UseOneWayGrouping: 0
-  m_SurfaceArc: 180
-  m_UseSideFriction: 0
-  m_UseSideBounce: 0
-  m_SideArc: 1
---- !u!114 &7576681956733521477
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3100752557895399393}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37a641b51b077ce468ddba74acdb6303, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

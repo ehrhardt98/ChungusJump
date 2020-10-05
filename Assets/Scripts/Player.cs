@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class Player : MonoBehaviour
 {
+
+    public static Player instance;
     public float moveSpeed = 10f;
 
     float movement;
@@ -18,8 +20,16 @@ public class Player : MonoBehaviour
 
     private float scoreMultiplier = 1f;
 
+    private bool spawnEnemies = false;
+
+    public bool StartSpawning { get { return spawnEnemies; } }
+
     private void Awake()
     {
+        if (instance == null)
+            instance = this;
+
+
         highScore = PlayerPrefs.GetFloat("highScore");
         rb = GetComponent<Rigidbody2D>();
         sprite = GetComponent<SpriteRenderer>();
@@ -41,6 +51,11 @@ public class Player : MonoBehaviour
             currScore = transform.position.y * scoreMultiplier;
         }
 
+        if (currScore > 100)
+        {
+            spawnEnemies = true;
+        }
+
         scoreText.text = "Score: " + Mathf.Round(currScore).ToString();
     }
 
@@ -48,11 +63,6 @@ public class Player : MonoBehaviour
     {
         movement = Input.GetAxis("Horizontal");
         rb.velocity = new Vector2(movement * moveSpeed, rb.velocity.y);
-    }
-
-    void OnBecameInvisible()
-    {
-        Destroy(gameObject);
     }
 
     public void startColorChange()
@@ -63,7 +73,7 @@ public class Player : MonoBehaviour
     IEnumerator colorChange()
     {
         int counter = 0;
-        while (counter < 100)
+        while (counter < 18)
         {
 
             if (sprite != null)
@@ -78,7 +88,6 @@ public class Player : MonoBehaviour
 
         sprite.color = new Color(255, 255, 255);
     }
-
 
     private void OnDisable()
     {

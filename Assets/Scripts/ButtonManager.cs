@@ -16,7 +16,6 @@ public class ButtonManager : MonoBehaviour
 
     void Start()
     {
-        currentTime = startingTime;
         highScore = PlayerPrefs.GetFloat("highScore");
         highScoreText.text = "HighScore: " + highScore.ToString();
     }
@@ -24,9 +23,10 @@ public class ButtonManager : MonoBehaviour
 
     public void startCountdown()
     {
+        currentTime = startingTime;
         SoundManager.PlaySound("Play");
         countdown.color = Color.red;
-        InvokeRepeating("Countdown", 0, 0.1f);
+        InvokeRepeating("Countdown", 0, 0.05f);
     }
 
     private void Countdown()

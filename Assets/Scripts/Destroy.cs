@@ -15,7 +15,6 @@ public class Destroy : MonoBehaviour
     public float minY = 10f;
     public float maxY = 25f;
     public float boostChance = 0.05f;
-    public float carrotChance = 0.5f;
     private float randomX, randomY;
 
     private void Update()
@@ -47,15 +46,14 @@ public class Destroy : MonoBehaviour
             {
                 Instantiate(platformPrefab, spawnPosition, Quaternion.identity);
             }
-
-            if (randomY > maxY - (maxY - minY) * carrotChance)
-            {
-                spawnPosition.y += 0.3f;
-                Instantiate(carrot, spawnPosition, Quaternion.identity);
-            }
         }
 
-        else if (collision.gameObject.tag == "carrot")
+        if (collision.gameObject.tag == "carrot")
+        {
+            Destroy(collision.gameObject);
+        }
+
+        if (collision.gameObject.tag == "enemy")
         {
             Destroy(collision.gameObject);
         }

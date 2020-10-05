@@ -165,7 +165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d06191f90752ce148b83e5648c9737cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 20
+  moveSpeed: 25
   sprite: {fileID: 6733522375458682913}
   scoreText: {fileID: 0}
   currScore: 0
@@ -223,7 +223,6 @@ MonoBehaviour:
   minY: 18
   maxY: 18.5
   boostChance: 0.05
-  carrotChance: 0.01
 --- !u!61 &6733522376367330350
 BoxCollider2D:
   m_ObjectHideFlags: 0
