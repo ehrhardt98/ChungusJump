@@ -4,17 +4,13 @@
 
 
 ### Identidade do jogo (Conceito)
-O personagem principal (Big Chungus) se deparou com o que parecia ser o fim do mundo, sua
-única opção para se manter vivo é pular de plataforma em plataforma para tentar escapar do
-vazio que sobe conforme o player avança.
+O personagem principal (Big Chungus) se deparou com o mundo de doodle jump à sua frente. Sem muitos questionamentos, ele decidiu fazer o mesmo que seu antecessor: pular e não cair no vazio. Porém, logo percebe que os doodlers (personagem do jogo original) não gostou que ele tomou seus lugares e se vingar.
 
 ### Descrição da mecânica (Core Mechanics / System design)
-Jogo de plataforma, gerado proceduralmente e infinito. O objetivo é chegar cada vez mais alto
-em cada tentativa.
+Jogo de plataforma, gerado proceduralmente e infinito. O objetivo é chegar cada vez mais alto em cada tentativa e desviar dos doodlers que tentam atingir o player.
 
 ### Características (Mundo do jogo)
-Mecânica simples mas desafiadora, é preciso se manter atento para não errar os pulos e cair
-no vazio.
+Mecânica simples mas desafiadora, é preciso se manter atento para não errar os pulos e desviar dos doodlers.
 
 ### Arte
 Jogo 2D com estilo de pixel art que procura imitar o Doodle Jump, no qual foi inspirado.
@@ -25,31 +21,26 @@ https://freesound.org/home/ - site open source com diversas samples de sons livr
 copyright.
 
 ### Interface
-Existe um botão de play com uma contagem regressiva para o jogo começar, assim como um menu de
-pausa com dois botões, um que faz o jogo voltar e outro que volta para o menu principal.
-No jogo existem dois tipos de plataformas, uma azul e outra roxa, a azul (mais comum) faz o player
-quicar uma altura padrão e a roxa é mais rara e faz com que o player seja lançado mais alto.
-Além disso, existe um powerup de cenoura, que nessa versão só implica em uma representação visual.
+Existe um botão de play com uma contagem regressiva para o jogo começar, assim como um menu de pausa com dois botões, um que faz o jogo voltar e outro que volta para o menu principal.
+No jogo existem dois tipos de plataformas, uma normal que faz o player quicar na altura padrão e outra com uma cenoura que cresce que o faz pular bem mais alto, porém é bem mais rara.
 
 ### Controles
 Setas de esquerda e direita, ou “A” e “D” para mover o player no eixo X da tela.
 ESC para pausar.
 
 ### Dificuldade
-Conforme o player sobe, a geração das plataformas fica cada vez mais caótica, fazendo com
-que fique difícil avançar.
+Conforme o player sobe, a geração das plataformas fica cada vez mais caótica, fazendo com que fique difícil avançar.
+Depois que o player acumula 100 de pontuação, os doodlers começam a cair sobre o player.
 
 ### Fluxo do jogo
 Menu -> MainGame -> Defeat e HighScore atualizado.
 
 ### Personagens
-O personagem principal é o único, as adversidades vêm do layout do cenário.
+O personagem principal e os doodlers.
 
 ### Cronograma e Escopo
-Adicionar utilidade ao powerup de cenoura, fazer com que ele duplique o ganho de pontos por
-um período de 5 segundos, 30 min.
-Possível adição de inimigos gerados em posições aleatórias que atrapalhariam a
-movimentação do jogador, 2 horas.
+Adicionar movimentação aos doodlers para seguir o player, mas precisaria de um player test extenso para testar a dificuldade. (30 min + test)
+Adicionar mais powerups, como multiplicador de score ou algum tipo de barreira protetora de uso único.
 
 ### Definições gerais
 Gênero: Plataforma.
